@@ -4,7 +4,9 @@
 
 # Clone the fa2022-convergent-git repo
 
-git clone (link)
+git clone link
+
+[clone-link]: [https://github.com/A1Y2U3S4H5/fa22-convergent-git/blob/main/Images/clone.JPG] "clone-link"
 
 # Create a branch name-team
 
