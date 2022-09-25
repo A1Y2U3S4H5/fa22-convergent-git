@@ -1,3 +1,7 @@
 i am testing for the presentation
-What is the name of the Turning volleyball team?
+What is the name of the Turing volleyball team?
 Getters and Setters
+
+Name: Jonathan Tung
+Major: Computer Science & Business
+Year: Junior
