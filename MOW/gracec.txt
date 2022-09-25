@@ -1,1 +1,5 @@
-cs majors
+joke: cs majors
+
+name: grace choi
+major: cs
+year: freshman
