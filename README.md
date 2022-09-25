@@ -21,7 +21,7 @@ Mac - nano, vim name.txt
 
 # Push to the remote repo
 
-git push
+git push or git push --set-upstream origin add-images (if first time)
 
 # Make a pull request!
 
