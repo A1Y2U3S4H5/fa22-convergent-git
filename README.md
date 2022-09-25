@@ -6,7 +6,7 @@
 
 git clone link
 
-[clone-link]: (https://github.com/A1Y2U3S4H5/fa22-convergent-git/blob/main/Images/clone.JPG) "clone-link"
+![alt text](https://github.com/A1Y2U3S4H5/fa22-convergent-git/blob/main/Images/clone.JPG)
 
 # Create a branch name-team
 
