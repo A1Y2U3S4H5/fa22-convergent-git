@@ -1,0 +1,7 @@
+Name: Rohit Anantha
+Major: CS
+Year: Sophomore
+
+Joke: Why do CS majors hate going outside? 
+
+Too many bugs!
